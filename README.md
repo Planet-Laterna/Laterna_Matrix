@@ -1,11 +1,11 @@
-<h1>Laterna Mini LED Panel</h1>
+<h1>Laterna Matrix</h1>
 
-Laterna Mini LED Panel is a controller + LED matrix. There are two variants of this board, the Attiny85 and the ESP line.
+Laterna Matrix is a controller + LED matrix. There are two variants of this board, the Attiny85 and the ESP line.
 It can contain a LED matrix in following formats 8x8 or 16x16
 
 You can power the board using the USB Type C connector or using an external 5V power supply. 
 
-Additionally Laterna Mini LED Panel - ESP boards are mainly intended to be used with [WLED software ](https://github.com/Aircoookie/WLED "WLED's Homepage") or [ESPHome](https://esphome.io), but you can also program the board using your own code or other library.
+Additionally Laterna Matrix - ESP boards are mainly intended to be used with [WLED software ](https://github.com/Aircoookie/WLED "WLED's Homepage") or [ESPHome](https://esphome.io), but you can also program the board using your own code or other library.
 
 The controller can be ordered on [Aliexpress](https://de.aliexpress.com/store/1100075030?spm=a2g0o.detail.1000007.1.2ffd267fcF2rAb)<br>
 
